@@ -1,0 +1,26 @@
+.hom{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-size: 2rem;
+}
+.cal{
+    font-size: 3rem;
+}
+
+@media only screen and (max-width: 600px) {
+    p{
+        font-size: 1rem;
+    }
+    .cal{
+        font-size: 1rem;
+    }
+  }
+  @media only screen and (max-width: 800px) {
+    p{
+        font-size: 2rem;
+    }
+    .cal{
+        font-size: 2rem;
+    }
+  }
